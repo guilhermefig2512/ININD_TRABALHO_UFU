@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Trabalho_ININD",
+			"path": "../../../../GIT/Trabalho_ININD"
+		},
+		{
+			"name": "ININD",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp"
+		}
+	}
+}
