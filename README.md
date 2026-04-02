@@ -1,14 +1,5 @@
 # ININD_TRABALHO_UFU
-Trabalho Final Completo e Explicado da Matéria de Instrumentação Industrial - Universidade Federal de Uberlândia
 ------------------
-O Trabalho Consiste em:
-1° Criação de um Filtro Analógico
-2° Criação de um Filtro Digital
-3° Calibração 
-4° Caracterização
-----------------------
-
-# ININD_TRABALHO_UFU
 
 **Trabalho Final Completo e Explicado da Matéria de Instrumentação Industrial**  
 Universidade Federal de Uberlândia — Semestre 2025/1
@@ -16,9 +7,13 @@ Universidade Federal de Uberlândia — Semestre 2025/1
 **Alunos:**
 - Guilherme de Paula Figueiredo — 12211EAU013
 - Gian Lucca Dinalli — 12221EBI012
-
 ---
-
+O Trabalho Consiste em:
+1° Criação de um Filtro Analógico
+2° Criação de um Filtro Digital
+3° Calibração 
+4° Caracterização
+----------------------
 ## Descrição do Projeto
 
 Desenvolvimento de um **Luxímetro** baseado no microcontrolador **ESP32**, capaz de medir luminosidade em lux utilizando um sensor LDR (Light Dependent Resistor). O sistema aplica filtragem digital FIR sobre o sinal lido, converte o valor filtrado em lux por meio de uma curva de calibração, e controla a intensidade de um LED via PWM de forma inversamente proporcional à luminosidade ambiente.
